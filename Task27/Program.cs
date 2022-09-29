@@ -23,8 +23,8 @@ Console.WriteLine("Cумма цифр числа = " + sumdigits);
 
 SumOfDigits(GetNumber());*/
 
-// Попытался реализовать задачу с вещественным числом на входе.
-// Приприобразовании вещественного числа, почему то добавляет к новому числу лишний 0
+
+// Припрeобразовании вещественного числа, почему то добавляет к новому числу лишний 0
 
 double GetNumber()
 
@@ -43,26 +43,24 @@ int ConvertNumber(double number)
         ostatok = Convert.ToInt32(newnumber % 1);
         newnumber = newnumber * 10;
     }
-
+// При прeобразовании вещественного числа, почему то добавляет к новому числу лишний 0
     Console.WriteLine(newnumber);
     int newnumberint = Convert.ToInt32(newnumber);
     return newnumberint;
 }
 
-void SumOfDigits(int newnumber)
+void SumOfDigits(int newnumberint)
 {
     int sumdigits = 0;
     int dig = 0;
-    int newnumberint = Convert.ToInt32(newnumber);
-
+    
     while (Math.Abs(newnumberint) > 0)
     {
-        dig = Convert.ToInt32(newnumberint % 10);
+        dig = newnumberint % 10;
         sumdigits = sumdigits + dig;
         newnumberint = newnumberint / 10;
     }
     Console.WriteLine("Cумма цифр числа = " + sumdigits);
-
 }
 
 int a = ConvertNumber(GetNumber());
