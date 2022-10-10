@@ -1,0 +1,15 @@
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\bin\Debug\net6.0\Task50.exe
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\bin\Debug\net6.0\Task50.deps.json
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\bin\Debug\net6.0\Task50.dll
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\bin\Debug\net6.0\Task50.pdb
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\Task50.dll
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\refint\Task50.dll
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\Task50.pdb
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\Task50\obj\Debug\net6.0\ref\Task50.dll
