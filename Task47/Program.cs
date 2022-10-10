@@ -3,18 +3,18 @@
 
 int GetNumberFromConsole(string text)
 {
-Console.WriteLine(text);
-return Convert.ToInt32(Console.ReadLine());
+    Console.WriteLine(text);
+    return Convert.ToInt32(Console.ReadLine());
 }
 
 void FillRandomValueAndPrintArray(double[,] arr, int minValue, int maxValue)
 {
-    for (int i=0; i < arr.GetLength(0); i++)
+    for (int i = 0; i < arr.GetLength(0); i++)
     {
-        for (int j=0; j < arr.GetLength(1); j++)
+        for (int j = 0; j < arr.GetLength(1); j++)
         {
-            arr[i,j]=new Random().Next(minValue,maxValue+1)*new Random().NextDouble();
-            Console.Write(arr[i,j]+" ");
+            arr[i, j] = new Random().Next(minValue, maxValue + 1) * new Random().NextDouble();
+            Console.Write(arr[i, j] + " ");
         }
         Console.WriteLine();
     }
