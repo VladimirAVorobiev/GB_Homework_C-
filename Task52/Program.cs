@@ -35,7 +35,7 @@ void GetColumnAverage(int[,] arr)
         {
             sum = sum + arr[i, j];
         }
-        average = Convert.ToDouble(sum) / arr.GetLength(0);   // Почему то не переводится в формат double
+        average = Convert.ToDouble(sum) / arr.GetLength(0);   // Просто переставил скобку за sum и все заработало
         Console.WriteLine($"Среднее арифметическое столбца {j+1} = {average}");            
     }
 }
