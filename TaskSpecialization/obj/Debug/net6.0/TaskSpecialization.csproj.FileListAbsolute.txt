@@ -1,0 +1,15 @@
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\bin\Debug\net6.0\TaskSpecialization.exe
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\bin\Debug\net6.0\TaskSpecialization.deps.json
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\bin\Debug\net6.0\TaskSpecialization.runtimeconfig.json
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\bin\Debug\net6.0\TaskSpecialization.dll
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\bin\Debug\net6.0\TaskSpecialization.pdb
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\TaskSpecialization.csproj.AssemblyReference.cache
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\TaskSpecialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\TaskSpecialization.AssemblyInfoInputs.cache
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\TaskSpecialization.AssemblyInfo.cs
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\TaskSpecialization.csproj.CoreCompileInputs.cache
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\TaskSpecialization.dll
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\refint\TaskSpecialization.dll
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\TaskSpecialization.pdb
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\TaskSpecialization.genruntimeconfig.cache
+C:\Users\salni\Documents\Обучение и Тренинги\GB\Знакомство с языками программирования C#\Homework_C#\TaskSpecialization\obj\Debug\net6.0\ref\TaskSpecialization.dll
